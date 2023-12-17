@@ -16,7 +16,7 @@ import Activity2 from "../../components/activity/Activity2";
 const home_6 = () => {
   return (
     <>
-      <Seo pageTitle="Home-6" />
+      <Seo pageTitle="Home" />
       {/* End Page Title */}
 
       <Header6 />
